@@ -1,4 +1,4 @@
-# Day 2: Day 2: Password Philosophy
+# Day 2: Password Philosophy
 
 [Advent Of Code 2020 Website](https://adventofcode.com/2020/day/2)
 
